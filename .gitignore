@@ -1,0 +1,7 @@
+# DotEnv configuration
+.env
+
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
